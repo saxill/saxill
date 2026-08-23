@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil Channa</h1>
-<h3 align="center">A passionate AiMl developer from India</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
