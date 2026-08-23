@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="saxill's GitHub profile" src="dark_mode.svg" />
 </picture>
-- 🔭 I’m currently working on [mareen](https://github.com/saxil/mareen),[arcl-cli](https://github.com/saxil/arcl-cli)
+- 🔭 I’m currently working on [Zara](https://sahilchanna.co.in/#zara)
 
 - 👨‍💻 All of my projects are available at [sahilchanna.co.in](sahilchanna.co.in)
 
