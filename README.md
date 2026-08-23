@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sahil Channa</h1>
 <h3 align="center">A passionate AiMl developer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/saxilll_" target="blank"><img src="https://img.shields.io/twitter/follow/saxilll_?logo=twitter&style=for-the-badge" alt="saxilll_" /></a> </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="saxill's GitHub profile" src="dark_mode.svg" />
+</picture>
 - 🔭 I’m currently working on [mareen](https://github.com/saxil/mareen),[arcl-cli](https://github.com/saxil/arcl-cli)
 
 - 👨‍💻 All of my projects are available at [sahilchanna.co.in](sahilchanna.co.in)
