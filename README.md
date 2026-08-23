@@ -5,7 +5,7 @@
 </picture>
 - 🔭 I’m currently working on [Zara](https://sahilchanna.co.in/#zara)
 
-- 👨‍💻 All of my projects are available at [sahilchanna.co.in] (https://sahilchanna.co.in)
+- 👨‍💻 All of my projects are available at [sahilchanna.co.in](https://sahilchanna.co.in)
 
 - 💬 Ask me about **Python ,Ai, Ml.**
 
