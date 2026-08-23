@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python ,Ai, Ml.**
 
-- 📫 How to reach me **github@sahilchanna.me**
+- 📫 How to reach me **admin@sahilchanna.co.in**
 
 - 📄 Know about my experiences [sahilchanna.co.in](https://sahilchanna.co.in)
 
